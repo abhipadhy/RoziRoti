@@ -31,7 +31,7 @@ As roziroti is based on both web and native app (feature phone based like jio ph
   <li>NodeJS</li> 
   <li>NodeMailer</li> 
   <li>JSPDF</li> 
-  <li>Manifest<li>
+  <li>Manifest</li>
   <li>Zipcodes-Nearby</li> 
  </ul>
 
